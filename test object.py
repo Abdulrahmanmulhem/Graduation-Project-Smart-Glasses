@@ -8,6 +8,7 @@ from pynput import keyboard
 from typing import Optional
 import numpy
 import cv2
+
 import logging
 
 # Setup logging
