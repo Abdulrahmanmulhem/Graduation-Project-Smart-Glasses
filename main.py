@@ -1,15 +1,17 @@
+from Camera_Module.LabCameraModule import LabCameraModule
 import Input_Manager.InputManager as InputManager
 from Object_Detection_Module.Obj_Detection import YOLODetector as ObjectDetector
 from OCR_Module.OCR_Processor import OCRProcessor
 from Currency_Module.curr import YOLODetector as CurrencyDetector
-from Camera_Module.CameraModule import CameraModule
+from Camera_Module.LabCameraModule import LabCameraModule
+
 
 import json
 import cv2
 import numpy
 
 # Initialize the camera module with the IP address of the IPCamera
-Camera = CameraModule("http://192.168.148.153:8080") # IPCamera changes the IP when you reconnect to your wifi, so you need to update it here as well.
+Camera = LabCameraModule(0) # IPCamera changes the IP when you reconnect to your wifi, so you need to update it here as well.
 
 # Set up logging
 level = InputManager.logging.INFO

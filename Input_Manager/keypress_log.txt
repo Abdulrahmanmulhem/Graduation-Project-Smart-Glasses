@@ -15038,3 +15038,103 @@ AttributeError: 'SpeechEngine' object has no attribute 'rate'
 2025-06-17 04:34:23,682 - DEBUG - platform is win32
 2025-06-17 04:34:23,769 - DEBUG - CACHEDIR=C:\Users\youssef\.matplotlib
 2025-06-17 04:34:23,776 - DEBUG - Using fontManager instance from C:\Users\youssef\.matplotlib\fontlist-v390.json
+2025-06-18 12:30:37,645 - INFO - Starting Input Manager...
+2025-06-18 12:30:37,647 - DEBUG - Initializing InputManager...
+2025-06-18 12:30:37,657 - DEBUG - Initializing SpeechEngine...
+2025-06-18 12:30:38,942 - DEBUG - Speech processing loop started.
+2025-06-18 12:30:38,942 - DEBUG - Speech thread started successfully.
+2025-06-18 12:30:38,945 - DEBUG - Speech engine initialized.
+2025-06-18 12:30:38,945 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-18 12:30:38,946 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-18 12:30:38,946 - DEBUG - InputManager setup complete.
+2025-06-18 12:30:38,946 - INFO - Input Manager initialized.
+2025-06-18 12:30:38,946 - INFO - Listening for key presses: a and b
+2025-06-18 12:30:39,061 - INFO - Input manager started. Listening for key presses on A and B.
+2025-06-18 12:30:39,061 - DEBUG - Queued speech text: 'System ready. Listening for input on keys A and B.'
+2025-06-18 12:30:39,061 - DEBUG - Processing speech item: 'System ready. Listening for input on keys A and B.'
+2025-06-18 12:30:44,972 - DEBUG - Finished speaking in 5.91s: 'System ready. Listening for input on keys A and B.'
+2025-06-18 12:30:48,531 - DEBUG - Key a pressed at 1750239048.530227
+2025-06-18 12:30:48,602 - DEBUG - Key a released at 1750239048.601767, duration 0.072s, count 1
+2025-06-18 12:30:49,114 - DEBUG - Single tap detected on key a
+2025-06-18 12:30:49,115 - INFO - Detected single press on key A
+2025-06-18 12:30:49,115 - DEBUG - Short pulse order received
+2025-06-18 12:30:49,222 - DEBUG - Queued speech text: 'Key A pressed once'
+2025-06-18 12:30:49,222 - DEBUG - Processing speech item: 'Key A pressed once'
+2025-06-18 12:30:51,101 - DEBUG - Key b pressed at 1750239051.1008604
+2025-06-18 12:30:51,163 - DEBUG - Key b released at 1750239051.162856, duration 0.062s, count 1
+2025-06-18 12:30:51,434 - DEBUG - Finished speaking in 2.21s: 'Key A pressed once'
+2025-06-18 12:30:51,676 - DEBUG - Single tap detected on key b
+2025-06-18 12:30:51,677 - INFO - Detected single press on key B
+2025-06-18 12:30:51,678 - DEBUG - Short pulse order received
+2025-06-18 12:30:51,784 - DEBUG - Queued speech text: 'Key B pressed once'
+2025-06-18 12:30:51,785 - DEBUG - Processing speech item: 'Key B pressed once'
+2025-06-18 12:30:54,042 - DEBUG - Finished speaking in 2.26s: 'Key B pressed once'
+2025-06-18 12:30:58,157 - INFO - Shutting down...
+2025-06-18 12:30:58,158 - DEBUG - Initiating graceful shutdown...
+2025-06-18 12:30:58,158 - DEBUG - Received stop signal, exiting speech loop.
+2025-06-18 12:30:58,160 - INFO - SpeechEngine stopped.
+2025-06-18 12:30:58,161 - INFO - Input manager stopped.
+2025-06-18 13:14:00,308 - INFO - Listening for key presses: a and b
+2025-06-18 13:14:00,309 - INFO - Press Ctrl+C to exit.
+2025-06-18 13:14:00,413 - INFO - Input manager started. Listening for key presses on A and B.
+2025-06-18 13:14:09,053 - INFO - Detected double press on key B
+2025-06-18 13:14:33,304 - ERROR - Error running currency detection: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2025-06-18 13:16:39,363 - INFO - Listening for key presses: a and b
+2025-06-18 13:16:39,364 - INFO - Press Ctrl+C to exit.
+2025-06-18 13:16:39,465 - INFO - Input manager started. Listening for key presses on A and B.
+2025-06-18 13:16:46,334 - INFO - Detected single press on key A
+2025-06-18 13:16:50,110 - INFO - Detected double press on key A
+2025-06-18 13:17:11,572 - ERROR - Error running object detection: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2025-06-18 13:25:14,369 - INFO - Detected double press on key A
+2025-06-18 13:30:58,484 - INFO - Listening for key presses: a and b
+2025-06-18 13:30:58,497 - INFO - Press Ctrl+C to exit.
+2025-06-18 13:30:58,710 - INFO - Input manager started. Listening for key presses on A and B.
+2025-06-18 13:34:05,431 - INFO - Shutting down...
+2025-06-18 13:44:28,170 - INFO - Listening for key presses: a and b
+2025-06-18 13:44:28,171 - INFO - Press Ctrl+C to exit.
+2025-06-18 13:44:28,302 - INFO - Input manager started. Listening for key presses on A and B.
+2025-06-18 13:44:32,850 - INFO - Detected double press on key A
+2025-06-18 13:45:07,914 - INFO - Detected double press on key B
+2025-06-18 13:45:15,086 - INFO - Detected triple press on key B
+2025-06-18 13:45:19,014 - ERROR - Error running OCR: Error occurred during OCR processing: C:/Program Files/Tesseract-OCR/Tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+2025-06-18 13:45:19,525 - INFO - Detected triple press on key A
+2025-06-18 13:45:31,185 - INFO - Detected double press on key A
+2025-06-18 13:45:42,019 - INFO - Detected double press on key B
+2025-06-18 13:46:31,779 - INFO - Detected single press on key A
+2025-06-18 13:46:35,380 - INFO - Shutting down...
+2025-06-18 14:32:37,459 - INFO - Listening for key presses: a and b
+2025-06-18 14:32:37,463 - INFO - Press Ctrl+C to exit.
+2025-06-18 14:32:37,688 - INFO - Input manager started. Listening for key presses on A and B.
+2025-06-18 14:32:40,840 - INFO - Detected double press on key B
+2025-06-18 14:33:36,234 - INFO - Detected double press on key B
+2025-06-18 14:33:49,367 - INFO - Detected double press on key B
+2025-06-18 14:34:08,731 - INFO - Detected double press on key B
+2025-06-18 14:34:53,229 - INFO - Detected double press on key B
+2025-06-18 14:35:18,220 - INFO - Detected double press on key B
+2025-06-18 14:36:01,156 - INFO - Detected double press on key B
+2025-06-18 14:37:05,018 - INFO - Detected double press on key B
+2025-06-18 14:38:24,132 - INFO - Detected double press on key B
+2025-06-18 14:39:02,607 - INFO - Detected double press on key B
+2025-06-18 14:39:11,892 - INFO - Detected double press on key B
+2025-06-18 14:39:24,509 - INFO - Detected double press on key B
+2025-06-18 14:41:30,641 - INFO - Shutting down...
+2025-06-18 15:46:55,120 - INFO - Listening for key presses: a and b
+2025-06-18 15:46:55,121 - INFO - Press Ctrl+C to exit.
+2025-06-18 15:46:55,246 - INFO - Input manager started. Listening for key presses on A and B.
+2025-06-18 15:46:58,158 - INFO - Detected double press on key A
+2025-06-18 15:47:56,840 - INFO - Detected double press on key A
+2025-06-18 15:48:09,944 - INFO - Detected double press on key A
+2025-06-18 15:48:32,872 - INFO - Detected double press on key A
+2025-06-18 15:48:55,310 - INFO - Detected double press on key A
+2025-06-18 15:49:10,671 - INFO - Detected double press on key A
+2025-06-18 15:49:23,541 - INFO - Detected double press on key A
+2025-06-18 15:49:47,700 - INFO - Detected double press on key A
+2025-06-18 15:51:06,545 - INFO - Detected double press on key A
+2025-06-18 15:52:17,429 - INFO - Detected double press on key A
+2025-06-18 15:52:23,473 - INFO - Detected double press on key B
+2025-06-18 15:52:51,950 - INFO - Detected double press on key B
+2025-06-18 15:53:08,489 - INFO - Detected double press on key B
+2025-06-18 15:53:25,033 - INFO - Detected double press on key B
+2025-06-18 15:53:38,717 - INFO - Detected double press on key B
+2025-06-18 15:57:28,097 - INFO - Detected single press on key A
+2025-06-18 15:57:34,875 - INFO - Shutting down...

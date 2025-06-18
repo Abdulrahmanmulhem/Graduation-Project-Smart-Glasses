@@ -205,7 +205,7 @@ class SpeechEngine:
         """
         return not self._speech_queue.empty()
 
-    def wait_until_done(self, timeout: float | None = None) -> bool:
+    def wait_until_done(self, timeout: float | None = None) -> bool: # type: ignore
         """
         Wait until all queued speech items are processed.
         
