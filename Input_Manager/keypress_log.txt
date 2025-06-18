@@ -15138,3 +15138,385 @@ AttributeError: 'SpeechEngine' object has no attribute 'rate'
 2025-06-18 15:53:38,717 - INFO - Detected double press on key B
 2025-06-18 15:57:28,097 - INFO - Detected single press on key A
 2025-06-18 15:57:34,875 - INFO - Shutting down...
+2025-06-18 17:29:12,983 - DEBUG - Initializing InputManager...
+2025-06-18 17:29:12,984 - DEBUG - Initializing SpeechEngine...
+2025-06-18 17:29:13,474 - DEBUG - Speech processing loop started.
+2025-06-18 17:29:13,474 - DEBUG - Speech thread started successfully.
+2025-06-18 17:29:13,481 - DEBUG - Speech engine initialized.
+2025-06-18 17:29:13,482 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-18 17:29:13,482 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-18 17:29:13,482 - DEBUG - InputManager setup complete.
+2025-06-18 17:29:17,082 - DEBUG - Initializing InputManager...
+2025-06-18 17:29:17,085 - DEBUG - Initializing SpeechEngine...
+2025-06-18 17:29:17,381 - DEBUG - Speech processing loop started.
+2025-06-18 17:29:17,381 - DEBUG - Speech thread started successfully.
+2025-06-18 17:29:17,385 - DEBUG - Speech engine initialized.
+2025-06-18 17:29:17,386 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-18 17:29:17,386 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-18 17:29:17,387 - DEBUG - InputManager setup complete.
+2025-06-18 17:29:28,828 - DEBUG - Initializing InputManager...
+2025-06-18 17:29:28,829 - DEBUG - Initializing SpeechEngine...
+2025-06-18 17:29:28,997 - DEBUG - Speech processing loop started.
+2025-06-18 17:29:28,997 - DEBUG - Speech thread started successfully.
+2025-06-18 17:29:29,001 - DEBUG - Speech engine initialized.
+2025-06-18 17:29:29,001 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-18 17:29:29,002 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-18 17:29:29,002 - DEBUG - InputManager setup complete.
+2025-06-18 17:33:16,198 - DEBUG - Initializing InputManager...
+2025-06-18 17:33:16,199 - DEBUG - Initializing SpeechEngine...
+2025-06-18 17:33:16,480 - DEBUG - Speech processing loop started.
+2025-06-18 17:33:16,480 - DEBUG - Speech thread started successfully.
+2025-06-18 17:33:16,484 - DEBUG - Speech engine initialized.
+2025-06-18 17:33:16,485 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-18 17:33:16,485 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-18 17:33:16,486 - DEBUG - InputManager setup complete.
+2025-06-18 17:33:22,737 - DEBUG - Queued speech text: 'Running object detection'
+2025-06-18 17:33:22,738 - DEBUG - Processing speech item: 'Running object detection'
+2025-06-18 17:33:25,417 - DEBUG - Finished speaking in 2.68s: 'Running object detection'
+2025-06-18 17:33:33,931 - DEBUG - Queued speech text: 'person detected'
+2025-06-18 17:33:33,932 - DEBUG - Processing speech item: 'person detected'
+2025-06-18 17:33:36,034 - DEBUG - Finished speaking in 2.10s: 'person detected'
+2025-06-18 17:33:54,108 - DEBUG - Initializing InputManager...
+2025-06-18 17:33:54,109 - DEBUG - Initializing SpeechEngine...
+2025-06-18 17:33:54,281 - DEBUG - Speech processing loop started.
+2025-06-18 17:33:54,281 - DEBUG - Speech thread started successfully.
+2025-06-18 17:33:54,286 - DEBUG - Speech engine initialized.
+2025-06-18 17:33:54,286 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-18 17:33:54,287 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-18 17:33:54,287 - DEBUG - InputManager setup complete.
+2025-06-18 17:33:58,403 - DEBUG - Queued speech text: 'Running object detection'
+2025-06-18 17:33:58,403 - DEBUG - Processing speech item: 'Running object detection'
+2025-06-18 17:34:00,976 - DEBUG - Finished speaking in 2.57s: 'Running object detection'
+2025-06-18 17:34:04,072 - DEBUG - Queued speech text: 'person detected'
+2025-06-18 17:34:04,072 - DEBUG - Processing speech item: 'person detected'
+2025-06-18 17:34:06,169 - DEBUG - Finished speaking in 2.09s: 'person detected'
+2025-06-18 17:34:18,859 - DEBUG - Initializing InputManager...
+2025-06-18 17:34:18,860 - DEBUG - Initializing SpeechEngine...
+2025-06-18 17:34:19,033 - DEBUG - Speech processing loop started.
+2025-06-18 17:34:19,034 - DEBUG - Speech thread started successfully.
+2025-06-18 17:34:19,037 - DEBUG - Speech engine initialized.
+2025-06-18 17:34:19,038 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-18 17:34:19,038 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-18 17:34:19,039 - DEBUG - InputManager setup complete.
+2025-06-18 17:34:24,829 - DEBUG - Queued speech text: 'Running object detection'
+2025-06-18 17:34:24,830 - DEBUG - Processing speech item: 'Running object detection'
+2025-06-18 17:34:27,369 - DEBUG - Finished speaking in 2.54s: 'Running object detection'
+2025-06-18 17:34:30,994 - DEBUG - Queued speech text: 'person detected'
+2025-06-18 17:34:30,994 - DEBUG - Processing speech item: 'person detected'
+2025-06-18 17:34:33,109 - DEBUG - Finished speaking in 2.11s: 'person detected'
+2025-06-18 17:34:51,999 - DEBUG - Initializing InputManager...
+2025-06-18 17:34:52,000 - DEBUG - Initializing SpeechEngine...
+2025-06-18 17:34:52,298 - DEBUG - Speech processing loop started.
+2025-06-18 17:34:52,298 - DEBUG - Speech thread started successfully.
+2025-06-18 17:34:52,307 - DEBUG - Speech engine initialized.
+2025-06-18 17:34:52,308 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-18 17:34:52,310 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-18 17:34:52,311 - DEBUG - InputManager setup complete.
+2025-06-18 17:35:02,435 - DEBUG - Queued speech text: 'Running object detection'
+2025-06-18 17:35:02,436 - DEBUG - Processing speech item: 'Running object detection'
+2025-06-18 17:35:05,031 - DEBUG - Finished speaking in 2.59s: 'Running object detection'
+2025-06-18 17:35:08,793 - DEBUG - Queued speech text: 'person detected'
+2025-06-18 17:35:08,793 - DEBUG - Processing speech item: 'person detected'
+2025-06-18 17:35:10,868 - DEBUG - Finished speaking in 2.07s: 'person detected'
+2025-06-18 17:45:17,961 - INFO - Listening for key presses: a and b
+2025-06-18 17:45:17,961 - INFO - Press Ctrl+C to exit.
+2025-06-18 17:45:18,079 - INFO - Input manager started. Listening for key presses on A and B.
+2025-06-18 17:45:41,402 - INFO - Detected double press on key A
+2025-06-18 17:46:16,817 - INFO - Detected double press on key A
+2025-06-18 17:46:38,959 - INFO - Detected double press on key A
+2025-06-18 17:47:04,809 - INFO - Detected double press on key A
+2025-06-18 17:47:44,039 - INFO - Detected double press on key A
+2025-06-18 17:48:00,132 - INFO - Detected double press on key A
+2025-06-18 17:48:24,418 - INFO - Detected double press on key A
+2025-06-18 17:48:43,183 - INFO - Detected double press on key A
+2025-06-18 17:49:00,695 - INFO - Detected double press on key A
+2025-06-18 17:50:20,609 - INFO - Detected double press on key A
+2025-06-18 17:50:34,543 - INFO - Detected double press on key A
+2025-06-18 17:50:46,955 - INFO - Detected double press on key A
+2025-06-18 17:51:10,877 - INFO - Detected double press on key A
+2025-06-18 17:53:24,574 - INFO - Shutting down...
+2025-06-18 18:02:08,517 - DEBUG - Initializing InputManager...
+2025-06-18 18:02:08,518 - DEBUG - Initializing SpeechEngine...
+2025-06-18 18:02:08,703 - DEBUG - Speech processing loop started.
+2025-06-18 18:02:08,703 - DEBUG - Speech thread started successfully.
+2025-06-18 18:02:08,707 - DEBUG - Speech engine initialized.
+2025-06-18 18:02:08,707 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-18 18:02:08,707 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-18 18:02:08,707 - DEBUG - InputManager setup complete.
+2025-06-18 18:03:08,323 - DEBUG - Initializing InputManager...
+2025-06-18 18:03:08,324 - DEBUG - Initializing SpeechEngine...
+2025-06-18 18:03:08,489 - DEBUG - Speech processing loop started.
+2025-06-18 18:03:08,489 - DEBUG - Speech thread started successfully.
+2025-06-18 18:03:08,494 - DEBUG - Speech engine initialized.
+2025-06-18 18:03:08,494 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-18 18:03:08,495 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-18 18:03:08,495 - DEBUG - InputManager setup complete.
+2025-06-18 18:03:12,240 - DEBUG - Queued speech text: 'OCR reading not yet implemented.'
+2025-06-18 18:03:12,241 - DEBUG - Processing speech item: 'OCR reading not yet implemented.'
+2025-06-18 18:03:15,536 - DEBUG - Finished speaking in 3.29s: 'OCR reading not yet implemented.'
+2025-06-18 18:03:16,882 - DEBUG - Queued speech text: 'Running currency recognition.'
+2025-06-18 18:03:16,883 - DEBUG - Processing speech item: 'Running currency recognition.'
+2025-06-18 18:03:16,885 - DEBUG - Queued speech text: 'Running currency detection'
+2025-06-18 18:03:19,581 - DEBUG - Finished speaking in 2.69s: 'Running currency recognition.'
+2025-06-18 18:03:19,585 - DEBUG - Processing speech item: 'Running currency detection'
+2025-06-18 18:03:22,114 - DEBUG - Finished speaking in 2.53s: 'Running currency detection'
+2025-06-18 18:03:22,616 - DEBUG - Queued speech text: 'No currency detected'
+2025-06-18 18:03:22,617 - DEBUG - Processing speech item: 'No currency detected'
+2025-06-18 18:03:24,971 - DEBUG - Finished speaking in 2.35s: 'No currency detected'
+2025-06-18 18:03:40,226 - DEBUG - Queued speech text: 'Running currency recognition.'
+2025-06-18 18:03:40,226 - DEBUG - Processing speech item: 'Running currency recognition.'
+2025-06-18 18:03:40,228 - DEBUG - Queued speech text: 'Running currency detection'
+2025-06-18 18:03:42,999 - DEBUG - Finished speaking in 2.77s: 'Running currency recognition.'
+2025-06-18 18:03:43,005 - DEBUG - Processing speech item: 'Running currency detection'
+2025-06-18 18:03:43,961 - DEBUG - Queued speech text: 'No currency detected'
+2025-06-18 18:03:45,503 - DEBUG - Finished speaking in 2.50s: 'Running currency detection'
+2025-06-18 18:03:45,516 - DEBUG - Processing speech item: 'No currency detected'
+2025-06-18 18:03:48,015 - DEBUG - Finished speaking in 2.50s: 'No currency detected'
+2025-06-18 18:04:00,227 - DEBUG - Queued speech text: 'Running currency recognition.'
+2025-06-18 18:04:00,227 - DEBUG - Processing speech item: 'Running currency recognition.'
+2025-06-18 18:04:00,228 - DEBUG - Queued speech text: 'Running currency detection'
+2025-06-18 18:04:02,935 - DEBUG - Finished speaking in 2.71s: 'Running currency recognition.'
+2025-06-18 18:04:02,939 - DEBUG - Processing speech item: 'Running currency detection'
+2025-06-18 18:04:03,952 - DEBUG - Queued speech text: 'No currency detected'
+2025-06-18 18:04:05,430 - DEBUG - Finished speaking in 2.49s: 'Running currency detection'
+2025-06-18 18:04:05,437 - DEBUG - Processing speech item: 'No currency detected'
+2025-06-18 18:04:07,794 - DEBUG - Finished speaking in 2.36s: 'No currency detected'
+2025-06-18 18:04:13,135 - DEBUG - Queued speech text: 'Running currency recognition.'
+2025-06-18 18:04:13,136 - DEBUG - Processing speech item: 'Running currency recognition.'
+2025-06-18 18:04:13,139 - DEBUG - Queued speech text: 'Running currency detection'
+2025-06-18 18:04:15,889 - DEBUG - Finished speaking in 2.75s: 'Running currency recognition.'
+2025-06-18 18:04:15,895 - DEBUG - Processing speech item: 'Running currency detection'
+2025-06-18 18:04:16,834 - DEBUG - Queued speech text: 'No currency detected'
+2025-06-18 18:04:18,391 - DEBUG - Finished speaking in 2.49s: 'Running currency detection'
+2025-06-18 18:04:18,403 - DEBUG - Processing speech item: 'No currency detected'
+2025-06-18 18:04:20,835 - DEBUG - Finished speaking in 2.43s: 'No currency detected'
+2025-06-18 18:04:53,238 - DEBUG - Queued speech text: 'Running currency recognition.'
+2025-06-18 18:04:53,239 - DEBUG - Processing speech item: 'Running currency recognition.'
+2025-06-18 18:04:53,240 - DEBUG - Queued speech text: 'Running currency detection'
+2025-06-18 18:04:55,915 - DEBUG - Finished speaking in 2.67s: 'Running currency recognition.'
+2025-06-18 18:04:55,921 - DEBUG - Processing speech item: 'Running currency detection'
+2025-06-18 18:04:56,884 - DEBUG - Queued speech text: '50Egp detected'
+2025-06-18 18:04:58,420 - DEBUG - Finished speaking in 2.50s: 'Running currency detection'
+2025-06-18 18:04:58,431 - DEBUG - Processing speech item: '50Egp detected'
+2025-06-18 18:05:00,836 - DEBUG - Finished speaking in 2.40s: '50Egp detected'
+2025-06-18 18:05:19,745 - DEBUG - Queued speech text: 'Running currency recognition.'
+2025-06-18 18:05:19,746 - DEBUG - Processing speech item: 'Running currency recognition.'
+2025-06-18 18:05:19,748 - DEBUG - Queued speech text: 'Running currency detection'
+2025-06-18 18:05:22,611 - DEBUG - Finished speaking in 2.86s: 'Running currency recognition.'
+2025-06-18 18:05:22,624 - DEBUG - Processing speech item: 'Running currency detection'
+2025-06-18 18:05:23,293 - DEBUG - Queued speech text: 'No currency detected'
+2025-06-18 18:05:25,308 - DEBUG - Finished speaking in 2.68s: 'Running currency detection'
+2025-06-18 18:05:25,325 - DEBUG - Processing speech item: 'No currency detected'
+2025-06-18 18:05:27,939 - DEBUG - Finished speaking in 2.61s: 'No currency detected'
+2025-06-18 18:05:30,234 - DEBUG - Queued speech text: 'Running currency recognition.'
+2025-06-18 18:05:30,235 - DEBUG - Processing speech item: 'Running currency recognition.'
+2025-06-18 18:05:30,237 - DEBUG - Queued speech text: 'Running currency detection'
+2025-06-18 18:05:33,110 - DEBUG - Finished speaking in 2.87s: 'Running currency recognition.'
+2025-06-18 18:05:33,115 - DEBUG - Processing speech item: 'Running currency detection'
+2025-06-18 18:05:34,043 - DEBUG - Queued speech text: '50Egp detected'
+2025-06-18 18:05:35,773 - DEBUG - Finished speaking in 2.66s: 'Running currency detection'
+2025-06-18 18:05:35,788 - DEBUG - Processing speech item: '50Egp detected'
+2025-06-18 18:05:38,168 - DEBUG - Finished speaking in 2.38s: '50Egp detected'
+2025-06-18 18:05:42,228 - DEBUG - Queued speech text: 'Running object detection'
+2025-06-18 18:05:42,229 - DEBUG - Processing speech item: 'Running object detection'
+2025-06-18 18:05:44,858 - DEBUG - Finished speaking in 2.63s: 'Running object detection'
+2025-06-18 18:05:45,733 - DEBUG - Queued speech text: 'Error running object detection: cannot access local variable 'detector' where it is not associated with a value'
+2025-06-18 18:05:45,733 - DEBUG - Processing speech item: 'Error running object detection: cannot access local variable 'detector' where it is not associated with a value'
+2025-06-18 18:05:45,735 - ERROR - Error running object detection: cannot access local variable 'detector' where it is not associated with a value
+2025-06-18 18:05:53,452 - DEBUG - Finished speaking in 7.72s: 'Error running object detection: cannot access local variable 'detector' where it is not associated with a value'
+2025-06-18 18:06:40,102 - DEBUG - Initializing InputManager...
+2025-06-18 18:06:40,103 - DEBUG - Initializing SpeechEngine...
+2025-06-18 18:06:40,296 - DEBUG - Speech processing loop started.
+2025-06-18 18:06:40,296 - DEBUG - Speech thread started successfully.
+2025-06-18 18:06:40,304 - DEBUG - Speech engine initialized.
+2025-06-18 18:06:40,304 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-18 18:06:40,305 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-18 18:06:40,305 - DEBUG - InputManager setup complete.
+2025-06-18 18:06:47,596 - DEBUG - Queued speech text: 'Running currency recognition.'
+2025-06-18 18:06:47,597 - DEBUG - Processing speech item: 'Running currency recognition.'
+2025-06-18 18:06:47,599 - DEBUG - Queued speech text: 'Running currency detection'
+2025-06-18 18:06:50,963 - DEBUG - Finished speaking in 3.36s: 'Running currency recognition.'
+2025-06-18 18:06:50,978 - DEBUG - Processing speech item: 'Running currency detection'
+2025-06-18 18:06:53,162 - DEBUG - Queued speech text: 'No currency detected'
+2025-06-18 18:06:53,692 - DEBUG - Finished speaking in 2.71s: 'Running currency detection'
+2025-06-18 18:06:53,705 - DEBUG - Processing speech item: 'No currency detected'
+2025-06-18 18:06:56,189 - DEBUG - Finished speaking in 2.48s: 'No currency detected'
+2025-06-18 18:07:27,242 - DEBUG - Queued speech text: 'Running currency recognition.'
+2025-06-18 18:07:27,242 - DEBUG - Processing speech item: 'Running currency recognition.'
+2025-06-18 18:07:27,244 - DEBUG - Queued speech text: 'Running currency detection'
+2025-06-18 18:07:29,963 - DEBUG - Finished speaking in 2.72s: 'Running currency recognition.'
+2025-06-18 18:07:29,968 - DEBUG - Processing speech item: 'Running currency detection'
+2025-06-18 18:07:30,902 - DEBUG - Queued speech text: 'No currency detected'
+2025-06-18 18:07:32,461 - DEBUG - Finished speaking in 2.49s: 'Running currency detection'
+2025-06-18 18:07:32,469 - DEBUG - Processing speech item: 'No currency detected'
+2025-06-18 18:07:38,219 - DEBUG - Initializing InputManager...
+2025-06-18 18:07:38,220 - DEBUG - Initializing SpeechEngine...
+2025-06-18 18:07:38,402 - DEBUG - Speech processing loop started.
+2025-06-18 18:07:38,402 - DEBUG - Speech thread started successfully.
+2025-06-18 18:07:38,408 - DEBUG - Speech engine initialized.
+2025-06-18 18:07:38,409 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-18 18:07:38,410 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-18 18:07:38,410 - DEBUG - InputManager setup complete.
+2025-06-18 18:07:53,985 - DEBUG - Initializing InputManager...
+2025-06-18 18:07:53,986 - DEBUG - Initializing SpeechEngine...
+2025-06-18 18:07:54,156 - DEBUG - Speech processing loop started.
+2025-06-18 18:07:54,156 - DEBUG - Speech thread started successfully.
+2025-06-18 18:07:54,163 - DEBUG - Speech engine initialized.
+2025-06-18 18:07:54,164 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-18 18:07:54,164 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-18 18:07:54,164 - DEBUG - InputManager setup complete.
+2025-06-18 18:07:55,740 - DEBUG - Queued speech text: 'Running currency detection'
+2025-06-18 18:07:55,740 - DEBUG - Processing speech item: 'Running currency detection'
+2025-06-18 18:07:58,463 - DEBUG - Finished speaking in 2.72s: 'Running currency detection'
+2025-06-18 18:08:01,326 - DEBUG - Queued speech text: 'No currency detected'
+2025-06-18 18:08:01,326 - DEBUG - Processing speech item: 'No currency detected'
+2025-06-18 18:08:03,887 - DEBUG - Finished speaking in 2.56s: 'No currency detected'
+2025-06-18 18:08:19,699 - DEBUG - Queued speech text: 'Running currency detection'
+2025-06-18 18:08:19,699 - DEBUG - Processing speech item: 'Running currency detection'
+2025-06-18 18:08:22,296 - DEBUG - Finished speaking in 2.59s: 'Running currency detection'
+2025-06-18 18:08:23,338 - DEBUG - Queued speech text: '50Egp detected'
+2025-06-18 18:08:23,338 - DEBUG - Processing speech item: '50Egp detected'
+2025-06-18 18:08:25,595 - DEBUG - Finished speaking in 2.26s: '50Egp detected'
+2025-06-18 18:08:33,738 - DEBUG - Queued speech text: 'Running object detection'
+2025-06-18 18:08:33,739 - DEBUG - Processing speech item: 'Running object detection'
+2025-06-18 18:08:36,380 - DEBUG - Finished speaking in 2.64s: 'Running object detection'
+2025-06-18 18:08:37,138 - DEBUG - Queued speech text: 'Error running object detection: cannot access local variable 'detector' where it is not associated with a value'
+2025-06-18 18:08:37,139 - DEBUG - Processing speech item: 'Error running object detection: cannot access local variable 'detector' where it is not associated with a value'
+2025-06-18 18:08:37,139 - ERROR - Error running object detection: cannot access local variable 'detector' where it is not associated with a value
+2025-06-18 18:08:44,776 - DEBUG - Finished speaking in 7.64s: 'Error running object detection: cannot access local variable 'detector' where it is not associated with a value'
+2025-06-18 18:15:06,655 - DEBUG - Initializing InputManager...
+2025-06-18 18:15:06,655 - DEBUG - Initializing SpeechEngine...
+2025-06-18 18:15:06,828 - DEBUG - Speech processing loop started.
+2025-06-18 18:15:06,828 - DEBUG - Speech thread started successfully.
+2025-06-18 18:15:06,833 - DEBUG - Speech engine initialized.
+2025-06-18 18:15:06,833 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-18 18:15:06,833 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-18 18:15:06,834 - DEBUG - InputManager setup complete.
+2025-06-18 18:15:12,469 - DEBUG - Queued speech text: 'Running object detection'
+2025-06-18 18:15:12,470 - DEBUG - Processing speech item: 'Running object detection'
+2025-06-18 18:15:15,626 - DEBUG - Finished speaking in 3.15s: 'Running object detection'
+2025-06-18 18:15:16,564 - DEBUG - Queued speech text: 'Error running object detection: cannot access local variable 'detector' where it is not associated with a value'
+2025-06-18 18:15:16,565 - DEBUG - Processing speech item: 'Error running object detection: cannot access local variable 'detector' where it is not associated with a value'
+2025-06-18 18:15:16,567 - ERROR - Error running object detection: cannot access local variable 'detector' where it is not associated with a value
+2025-06-18 18:15:24,240 - DEBUG - Finished speaking in 7.67s: 'Error running object detection: cannot access local variable 'detector' where it is not associated with a value'
+2025-06-18 18:15:29,056 - DEBUG - Queued speech text: 'Running currency detection'
+2025-06-18 18:15:29,057 - DEBUG - Processing speech item: 'Running currency detection'
+2025-06-18 18:15:31,741 - DEBUG - Finished speaking in 2.68s: 'Running currency detection'
+2025-06-18 18:15:34,213 - DEBUG - Queued speech text: 'No currency detected'
+2025-06-18 18:15:34,213 - DEBUG - Processing speech item: 'No currency detected'
+2025-06-18 18:15:36,669 - DEBUG - Finished speaking in 2.46s: 'No currency detected'
+2025-06-18 18:16:06,557 - DEBUG - Initializing InputManager...
+2025-06-18 18:16:06,558 - DEBUG - Initializing SpeechEngine...
+2025-06-18 18:16:06,723 - DEBUG - Speech processing loop started.
+2025-06-18 18:16:06,723 - DEBUG - Speech thread started successfully.
+2025-06-18 18:16:06,729 - DEBUG - Speech engine initialized.
+2025-06-18 18:16:06,730 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-18 18:16:06,730 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-18 18:16:06,731 - DEBUG - InputManager setup complete.
+2025-06-18 18:21:58,958 - DEBUG - Initializing InputManager...
+2025-06-18 18:21:58,959 - DEBUG - Initializing SpeechEngine...
+2025-06-18 18:21:59,125 - DEBUG - Speech processing loop started.
+2025-06-18 18:21:59,125 - DEBUG - Speech thread started successfully.
+2025-06-18 18:21:59,131 - DEBUG - Speech engine initialized.
+2025-06-18 18:21:59,131 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-18 18:21:59,132 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-18 18:21:59,132 - DEBUG - InputManager setup complete.
+2025-06-18 18:22:05,957 - DEBUG - Queued speech text: 'Running object detection'
+2025-06-18 18:22:05,957 - DEBUG - Processing speech item: 'Running object detection'
+2025-06-18 18:22:09,023 - DEBUG - Finished speaking in 3.06s: 'Running object detection'
+2025-06-18 18:22:11,924 - DEBUG - Queued speech text: 'person detected'
+2025-06-18 18:22:11,924 - DEBUG - Processing speech item: 'person detected'
+2025-06-18 18:22:11,926 - DEBUG - Queued speech text: 'potted plant detected'
+2025-06-18 18:22:14,127 - DEBUG - Finished speaking in 2.20s: 'person detected'
+2025-06-18 18:22:14,144 - DEBUG - Processing speech item: 'potted plant detected'
+2025-06-18 18:22:16,706 - DEBUG - Finished speaking in 2.56s: 'potted plant detected'
+2025-06-18 18:25:44,552 - DEBUG - Initializing InputManager...
+2025-06-18 18:25:44,553 - DEBUG - Initializing SpeechEngine...
+2025-06-18 18:25:44,725 - DEBUG - Speech processing loop started.
+2025-06-18 18:25:44,726 - DEBUG - Speech thread started successfully.
+2025-06-18 18:25:44,730 - DEBUG - Speech engine initialized.
+2025-06-18 18:25:44,730 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-18 18:25:44,731 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-18 18:25:44,731 - DEBUG - InputManager setup complete.
+2025-06-18 18:25:47,743 - DEBUG - Queued speech text: 'Running currency detection'
+2025-06-18 18:25:47,743 - DEBUG - Processing speech item: 'Running currency detection'
+2025-06-18 18:25:50,419 - DEBUG - Finished speaking in 2.67s: 'Running currency detection'
+2025-06-18 18:25:53,198 - DEBUG - Queued speech text: 'No currency detected'
+2025-06-18 18:25:53,198 - DEBUG - Processing speech item: 'No currency detected'
+2025-06-18 18:25:55,647 - DEBUG - Finished speaking in 2.45s: 'No currency detected'
+2025-06-18 18:25:59,726 - DEBUG - Queued speech text: 'Running currency detection'
+2025-06-18 18:25:59,727 - DEBUG - Processing speech item: 'Running currency detection'
+2025-06-18 18:26:02,425 - DEBUG - Finished speaking in 2.70s: 'Running currency detection'
+2025-06-18 18:26:03,383 - DEBUG - Queued speech text: '20Egp detected'
+2025-06-18 18:26:03,383 - DEBUG - Processing speech item: '20Egp detected'
+2025-06-18 18:26:05,739 - DEBUG - Finished speaking in 2.35s: '20Egp detected'
+2025-06-18 18:26:13,740 - DEBUG - Queued speech text: 'Running currency detection'
+2025-06-18 18:26:13,740 - DEBUG - Processing speech item: 'Running currency detection'
+2025-06-18 18:26:16,435 - DEBUG - Finished speaking in 2.69s: 'Running currency detection'
+2025-06-18 18:26:17,311 - DEBUG - Queued speech text: '50Egp detected'
+2025-06-18 18:26:17,311 - DEBUG - Processing speech item: '50Egp detected'
+2025-06-18 18:26:19,666 - DEBUG - Finished speaking in 2.35s: '50Egp detected'
+2025-06-18 18:34:07,050 - DEBUG - Initializing InputManager...
+2025-06-18 18:34:07,050 - DEBUG - Initializing SpeechEngine...
+2025-06-18 18:34:07,223 - DEBUG - Speech processing loop started.
+2025-06-18 18:34:07,223 - DEBUG - Speech thread started successfully.
+2025-06-18 18:34:07,229 - DEBUG - Speech engine initialized.
+2025-06-18 18:34:07,229 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-18 18:34:07,229 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-18 18:34:07,229 - DEBUG - InputManager setup complete.
+2025-06-18 18:34:15,812 - DEBUG - Queued speech text: 'Running object detection'
+2025-06-18 18:34:15,813 - DEBUG - Processing speech item: 'Running object detection'
+2025-06-18 18:34:18,920 - DEBUG - Finished speaking in 3.11s: 'Running object detection'
+2025-06-18 18:34:21,988 - DEBUG - Queued speech text: 'person detected'
+2025-06-18 18:34:21,988 - DEBUG - Processing speech item: 'person detected'
+2025-06-18 18:34:21,989 - DEBUG - Queued speech text: 'cell phone detected'
+2025-06-18 18:34:24,187 - DEBUG - Finished speaking in 2.20s: 'person detected'
+2025-06-18 18:34:24,202 - DEBUG - Processing speech item: 'cell phone detected'
+2025-06-18 18:34:26,582 - DEBUG - Finished speaking in 2.38s: 'cell phone detected'
+2025-06-18 18:35:19,083 - DEBUG - Initializing InputManager...
+2025-06-18 18:35:19,085 - DEBUG - Initializing SpeechEngine...
+2025-06-18 18:35:19,283 - DEBUG - Speech processing loop started.
+2025-06-18 18:35:19,283 - DEBUG - Speech thread started successfully.
+2025-06-18 18:35:19,290 - DEBUG - Speech engine initialized.
+2025-06-18 18:35:19,290 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-18 18:35:19,292 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-18 18:35:19,295 - DEBUG - InputManager setup complete.
+2025-06-18 18:35:19,742 - DEBUG - Queued speech text: 'OCR reading not yet implemented.'
+2025-06-18 18:35:19,742 - DEBUG - Processing speech item: 'OCR reading not yet implemented.'
+2025-06-18 18:35:22,945 - DEBUG - Finished speaking in 3.20s: 'OCR reading not yet implemented.'
+2025-06-18 18:35:23,647 - DEBUG - Queued speech text: 'Running currency detection'
+2025-06-18 18:35:23,647 - DEBUG - Processing speech item: 'Running currency detection'
+2025-06-18 18:35:26,242 - DEBUG - Finished speaking in 2.59s: 'Running currency detection'
+2025-06-18 18:35:29,174 - DEBUG - Queued speech text: '50Egp detected'
+2025-06-18 18:35:29,174 - DEBUG - Processing speech item: '50Egp detected'
+2025-06-18 18:35:31,534 - DEBUG - Finished speaking in 2.36s: '50Egp detected'
+2025-06-18 18:38:45,147 - DEBUG - Queued speech text: 'Object detection is not estimated'
+2025-06-18 18:38:45,148 - DEBUG - Processing speech item: 'Object detection is not estimated'
+2025-06-18 18:38:51,516 - DEBUG - Initializing InputManager...
+2025-06-18 18:38:51,517 - DEBUG - Initializing SpeechEngine...
+2025-06-18 18:38:51,683 - DEBUG - Speech processing loop started.
+2025-06-18 18:38:51,683 - DEBUG - Speech thread started successfully.
+2025-06-18 18:38:51,689 - DEBUG - Speech engine initialized.
+2025-06-18 18:38:51,689 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-18 18:38:51,690 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-18 18:38:51,690 - DEBUG - InputManager setup complete.
+2025-06-18 18:38:59,177 - DEBUG - Queued speech text: 'Running object detection'
+2025-06-18 18:38:59,177 - DEBUG - Processing speech item: 'Running object detection'
+2025-06-18 18:39:02,238 - DEBUG - Finished speaking in 3.06s: 'Running object detection'
+2025-06-18 18:39:05,209 - DEBUG - Queued speech text: 'person detected'
+2025-06-18 18:39:05,209 - DEBUG - Processing speech item: 'person detected'
+2025-06-18 18:39:07,410 - DEBUG - Finished speaking in 2.20s: 'person detected'
+2025-06-18 18:39:33,570 - DEBUG - Queued speech text: 'Running object detection'
+2025-06-18 18:39:33,571 - DEBUG - Processing speech item: 'Running object detection'
+2025-06-18 18:39:36,737 - DEBUG - Finished speaking in 3.16s: 'Running object detection'
+2025-06-18 18:39:37,601 - DEBUG - Queued speech text: 'spoon detected'
+2025-06-18 18:39:37,602 - DEBUG - Processing speech item: 'spoon detected'
+2025-06-18 18:39:39,703 - DEBUG - Finished speaking in 2.10s: 'spoon detected'
+2025-06-18 18:41:04,349 - DEBUG - Initializing InputManager...
+2025-06-18 18:41:04,350 - DEBUG - Initializing SpeechEngine...
+2025-06-18 18:41:04,605 - DEBUG - Speech processing loop started.
+2025-06-18 18:41:04,605 - DEBUG - Speech thread started successfully.
+2025-06-18 18:41:04,611 - DEBUG - Speech engine initialized.
+2025-06-18 18:41:04,611 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-18 18:41:04,611 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-18 18:41:04,612 - DEBUG - InputManager setup complete.
