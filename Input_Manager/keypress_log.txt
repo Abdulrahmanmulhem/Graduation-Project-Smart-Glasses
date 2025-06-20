@@ -15705,3 +15705,107 @@ AttributeError: 'SpeechEngine' object has no attribute 'rate'
 2025-06-18 19:46:41,302 - DEBUG - Finished speaking in 2.60s: 'refrigerator detected'
 2025-06-18 19:46:41,322 - DEBUG - Processing speech item: 'bottle detected'
 2025-06-18 19:46:43,423 - DEBUG - Finished speaking in 2.10s: 'bottle detected'
+2025-06-19 17:54:21,248 - DEBUG - Initializing InputManager...
+2025-06-19 17:54:21,256 - DEBUG - Initializing SpeechEngine...
+2025-06-19 17:54:22,267 - DEBUG - Speech processing loop started.
+2025-06-19 17:54:22,267 - DEBUG - Speech thread started successfully.
+2025-06-19 17:54:22,274 - DEBUG - Speech engine initialized.
+2025-06-19 17:54:22,275 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-19 17:54:22,276 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-19 17:54:22,277 - DEBUG - InputManager setup complete.
+2025-06-19 18:00:41,804 - DEBUG - Initializing InputManager...
+2025-06-19 18:00:41,805 - DEBUG - Initializing SpeechEngine...
+2025-06-19 18:00:42,288 - DEBUG - Speech processing loop started.
+2025-06-19 18:00:42,288 - DEBUG - Speech thread started successfully.
+2025-06-19 18:00:42,295 - DEBUG - Speech engine initialized.
+2025-06-19 18:00:42,297 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-19 18:00:42,298 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-19 18:00:42,298 - DEBUG - InputManager setup complete.
+2025-06-19 18:03:49,400 - DEBUG - Initializing InputManager...
+2025-06-19 18:03:49,401 - DEBUG - Initializing SpeechEngine...
+2025-06-19 18:03:49,570 - DEBUG - Speech processing loop started.
+2025-06-19 18:03:49,570 - DEBUG - Speech thread started successfully.
+2025-06-19 18:03:49,574 - DEBUG - Speech engine initialized.
+2025-06-19 18:03:49,574 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-19 18:03:49,574 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-19 18:03:49,575 - DEBUG - InputManager setup complete.
+2025-06-19 18:05:55,142 - DEBUG - Initializing InputManager...
+2025-06-19 18:05:55,143 - DEBUG - Initializing SpeechEngine...
+2025-06-19 18:05:55,539 - DEBUG - Speech processing loop started.
+2025-06-19 18:05:55,539 - DEBUG - Speech thread started successfully.
+2025-06-19 18:05:55,546 - DEBUG - Speech engine initialized.
+2025-06-19 18:05:55,548 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-19 18:05:55,548 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-19 18:05:55,549 - DEBUG - InputManager setup complete.
+2025-06-19 18:12:07,521 - DEBUG - Initializing InputManager...
+2025-06-19 18:12:07,522 - DEBUG - Initializing SpeechEngine...
+2025-06-19 18:12:07,681 - DEBUG - Speech processing loop started.
+2025-06-19 18:12:07,681 - DEBUG - Speech thread started successfully.
+2025-06-19 18:12:07,685 - DEBUG - Speech engine initialized.
+2025-06-19 18:12:07,685 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-19 18:12:07,686 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-19 18:12:07,686 - DEBUG - InputManager setup complete.
+2025-06-19 18:13:46,127 - DEBUG - Initializing InputManager...
+2025-06-19 18:13:46,128 - DEBUG - Initializing SpeechEngine...
+2025-06-19 18:13:46,299 - DEBUG - Speech processing loop started.
+2025-06-19 18:13:46,299 - DEBUG - Speech thread started successfully.
+2025-06-19 18:13:46,304 - DEBUG - Speech engine initialized.
+2025-06-19 18:13:46,304 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-19 18:13:46,305 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-19 18:13:46,305 - DEBUG - InputManager setup complete.
+2025-06-19 18:14:40,977 - DEBUG - Initializing InputManager...
+2025-06-19 18:14:40,978 - DEBUG - Initializing SpeechEngine...
+2025-06-19 18:14:41,144 - DEBUG - Speech processing loop started.
+2025-06-19 18:14:41,144 - DEBUG - Speech thread started successfully.
+2025-06-19 18:14:41,148 - DEBUG - Speech engine initialized.
+2025-06-19 18:14:41,149 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-19 18:14:41,149 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-19 18:14:41,149 - DEBUG - InputManager setup complete.
+2025-06-19 18:15:46,725 - DEBUG - Initializing InputManager...
+2025-06-19 18:15:46,726 - DEBUG - Initializing SpeechEngine...
+2025-06-19 18:15:46,889 - DEBUG - Speech processing loop started.
+2025-06-19 18:15:46,889 - DEBUG - Speech thread started successfully.
+2025-06-19 18:15:46,894 - DEBUG - Speech engine initialized.
+2025-06-19 18:15:46,894 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-19 18:15:46,895 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-19 18:15:46,895 - DEBUG - InputManager setup complete.
+2025-06-19 18:23:53,773 - DEBUG - Initializing InputManager...
+2025-06-19 18:23:53,774 - DEBUG - Initializing SpeechEngine...
+2025-06-19 18:23:54,049 - DEBUG - Speech processing loop started.
+2025-06-19 18:23:54,049 - DEBUG - Speech thread started successfully.
+2025-06-19 18:23:54,056 - DEBUG - Speech engine initialized.
+2025-06-19 18:23:54,056 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-19 18:23:54,057 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-19 18:23:54,058 - DEBUG - InputManager setup complete.
+2025-06-19 18:26:40,836 - DEBUG - Initializing InputManager...
+2025-06-19 18:26:40,837 - DEBUG - Initializing SpeechEngine...
+2025-06-19 18:26:41,030 - DEBUG - Speech processing loop started.
+2025-06-19 18:26:41,030 - DEBUG - Speech thread started successfully.
+2025-06-19 18:26:41,035 - DEBUG - Speech engine initialized.
+2025-06-19 18:26:41,036 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-19 18:26:41,037 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-19 18:26:41,037 - DEBUG - InputManager setup complete.
+2025-06-19 18:30:27,120 - DEBUG - Initializing InputManager...
+2025-06-19 18:30:27,121 - DEBUG - Initializing SpeechEngine...
+2025-06-19 18:30:27,373 - DEBUG - Speech processing loop started.
+2025-06-19 18:30:27,374 - DEBUG - Speech thread started successfully.
+2025-06-19 18:30:27,382 - DEBUG - Speech engine initialized.
+2025-06-19 18:30:27,382 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-19 18:30:27,383 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-19 18:30:27,383 - DEBUG - InputManager setup complete.
+2025-06-19 18:31:46,131 - DEBUG - Initializing InputManager...
+2025-06-19 18:31:46,132 - DEBUG - Initializing SpeechEngine...
+2025-06-19 18:31:46,315 - DEBUG - Speech processing loop started.
+2025-06-19 18:31:46,315 - DEBUG - Speech thread started successfully.
+2025-06-19 18:31:46,320 - DEBUG - Speech engine initialized.
+2025-06-19 18:31:46,321 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-19 18:31:46,321 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-19 18:31:46,322 - DEBUG - InputManager setup complete.
+2025-06-19 18:33:13,137 - DEBUG - Initializing InputManager...
+2025-06-19 18:33:13,138 - DEBUG - Initializing SpeechEngine...
+2025-06-19 18:33:13,438 - DEBUG - Speech processing loop started.
+2025-06-19 18:33:13,438 - DEBUG - Speech thread started successfully.
+2025-06-19 18:33:13,445 - DEBUG - Speech engine initialized.
+2025-06-19 18:33:13,446 - DEBUG - KeyDetector initialized for key 'a'
+2025-06-19 18:33:13,447 - DEBUG - KeyDetector initialized for key 'b'
+2025-06-19 18:33:13,450 - DEBUG - InputManager setup complete.
